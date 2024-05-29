@@ -1,0 +1,14 @@
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\bin\Debug\net8.0\FINAL.exe
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\bin\Debug\net8.0\FINAL.deps.json
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\bin\Debug\net8.0\FINAL.runtimeconfig.json
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\bin\Debug\net8.0\FINAL.dll
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\bin\Debug\net8.0\FINAL.pdb
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\FINAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\FINAL.AssemblyInfoInputs.cache
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\FINAL.AssemblyInfo.cs
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\FINAL.csproj.CoreCompileInputs.cache
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\FINAL.dll
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\refint\FINAL.dll
+c:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\FINAL.pdb
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\FINAL.genruntimeconfig.cache
+C:\Users\Oliver Herrera\Documents\Universidad\Uni 2024\PENSAMIENTO COMPUTACIONAL 1er semestre\FINAL\obj\Debug\net8.0\ref\FINAL.dll
